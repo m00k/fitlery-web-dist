@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/fitlery-web-dist/static/js/main.ccaea99b.chunk.js",
-    "main.js.map": "/fitlery-web-dist/static/js/main.ccaea99b.chunk.js.map",
+    "main.js": "/fitlery-web-dist/static/js/main.d8e41298.chunk.js",
+    "main.js.map": "/fitlery-web-dist/static/js/main.d8e41298.chunk.js.map",
     "runtime-main.js": "/fitlery-web-dist/static/js/runtime-main.68bced40.js",
     "runtime-main.js.map": "/fitlery-web-dist/static/js/runtime-main.68bced40.js.map",
     "static/js/2.85f641f8.chunk.js": "/fitlery-web-dist/static/js/2.85f641f8.chunk.js",
     "static/js/2.85f641f8.chunk.js.map": "/fitlery-web-dist/static/js/2.85f641f8.chunk.js.map",
     "index.html": "/fitlery-web-dist/index.html",
-    "precache-manifest.6e5c54b18064a6f7fc7168905f7bd489.js": "/fitlery-web-dist/precache-manifest.6e5c54b18064a6f7fc7168905f7bd489.js",
+    "precache-manifest.aded188f5b7f790b09a00fe02d65836e.js": "/fitlery-web-dist/precache-manifest.aded188f5b7f790b09a00fe02d65836e.js",
     "service-worker.js": "/fitlery-web-dist/service-worker.js",
     "static/js/2.85f641f8.chunk.js.LICENSE.txt": "/fitlery-web-dist/static/js/2.85f641f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68bced40.js",
     "static/js/2.85f641f8.chunk.js",
-    "static/js/main.ccaea99b.chunk.js"
+    "static/js/main.d8e41298.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8672f3da96f69eb93b9f1a9a790780ad",
+    "revision": "5c5dbbce14ccba54f3aab7070b52833b",
     "url": "/fitlery-web-dist/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fitlery-web-dist/static/js/2.85f641f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95a382b1f4e0f5be7d93",
-    "url": "/fitlery-web-dist/static/js/main.ccaea99b.chunk.js"
+    "revision": "19a5f955f260be6d11f7",
+    "url": "/fitlery-web-dist/static/js/main.d8e41298.chunk.js"
   },
   {
     "revision": "50b5028ef241e8f46985",
