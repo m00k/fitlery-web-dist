@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fitlery-web-dist/precache-manifest.144105449547e55aff53fda8674b6f5d.js"
+  "/fitlery-web-dist/precache-manifest.ac9ba8ea347e231fe148ada4e9a7e055.js"
 );
 
 self.addEventListener('message', (event) => {
